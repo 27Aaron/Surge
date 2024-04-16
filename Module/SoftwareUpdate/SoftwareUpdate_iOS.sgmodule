@@ -1,0 +1,6 @@
+#!name=Block OTA Update for iOS
+#!desc=Block OTA Update for iOS
+#!system=ios
+
+[Rule]
+DOMAIN,gdmf.apple.com,REJECT
